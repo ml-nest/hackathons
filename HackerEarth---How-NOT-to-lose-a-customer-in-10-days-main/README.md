@@ -1,1 +1,1 @@
-# HackerEarth---How-NOT-to-lose-a-customer-in-10-days
+# HackerEarth---How-NOT-to-lose-a-customer-in-10-day
